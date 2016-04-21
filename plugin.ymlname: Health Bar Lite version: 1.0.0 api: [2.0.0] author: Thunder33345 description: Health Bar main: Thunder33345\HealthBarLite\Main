@@ -1,0 +1,6 @@
+name: Health Bar Lite
+version: 1.0.0
+api: [2.0.0]
+author: Thunder33345
+description: Health Bar
+main: Thunder33345\HealthBarLite\Main
