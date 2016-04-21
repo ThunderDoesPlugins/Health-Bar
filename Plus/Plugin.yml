@@ -1,0 +1,6 @@
+name: Health Bar Plus
+version: 0.0.1
+api: [2.0.0]
+author: Thunder33345
+description: Health Bar +
+main: Thunder33345\HealthBarPlus\Main
